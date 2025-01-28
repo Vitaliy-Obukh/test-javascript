@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" style="display:none;">
+  <!-- Іконка "Test" -->
+  <symbol id="icon-test" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <rect width="24" height="24" rx="4" fill="#007BFF"/>
+    <text x="12" y="16" font-size="10" font-family="Arial, sans-serif" text-anchor="middle" fill="#FFFFFF">
+      TEST
+    </text>
+  </symbol>
+</svg>
